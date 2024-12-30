@@ -1,0 +1,4 @@
+Recipe Name: Samosa
+Ingredients: Potatoes, Peas, Spices, Flour, Oil
+Instructions: Mix ingredients , fill in dough , and fry.
+

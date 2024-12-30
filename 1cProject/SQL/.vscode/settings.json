@@ -1,0 +1,9 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\geeta\\OneDrive\\Desktop\\mysql-connector-j-9.0.0.jar",
+        "d:\\Downloads\\MySQL\\mysql-connector-j-9.0.0.jar",
+        "c:\\Users\\geeta\\OneDrive\\Desktop\\mysql-connector-j-8.2.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
